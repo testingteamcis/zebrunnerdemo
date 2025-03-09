@@ -47,6 +47,7 @@ public class Utils {
 		
 		Properties prop = new Properties();
 		System.out.println("test");
+		System.out.println("test456");
 		FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\java\\Global.properties");
 
 		
